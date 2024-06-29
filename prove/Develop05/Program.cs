@@ -1,9 +1,8 @@
-using System;
-
-class Program
+public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop05 World!");
+        GoalManager manager = new GoalManager();
+        // User interface and main program loop would be implemented here
     }
 }
